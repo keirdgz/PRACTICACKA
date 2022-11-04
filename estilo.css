@@ -24,6 +24,10 @@ body {
     display: inline-block;
 }
 
+.requisitos > li {
+    display: inline-block;
+}
+
 .menu > li > a {
     display: block;
     padding: 15px 20px;
@@ -55,6 +59,19 @@ font-family:'Courier New', Courier, monospace ;
     text-align: center;
     border-radius: 15px;
 }
+
+.colaboraciones {
+    color: azure;
+    width: 1100px;
+    background: rgba(0, 0, 0, .4);
+    margin: 0 auto;
+    margin-top: 4%;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+
 
 .box-img {
     border-radius: 25px;
